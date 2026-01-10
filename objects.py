@@ -1,3 +1,8 @@
+### Exoplanets analysis (EXO)
+### Author : H. Nowacki
+### Version : 0.1
+### Licence : Creative Commons (CC)
+
 import numpy as np
 import scipy.constants as csts
 from scipy.stats import norm
